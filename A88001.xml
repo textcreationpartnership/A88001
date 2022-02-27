@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter on the subject of the succession</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88001</idno>
+            <idno type="STC">Wing L1584</idno>
+            <idno type="STC">ESTC R40245</idno>
+            <idno type="EEBO-CITATION">99897522</idno>
+            <idno type="PROQUEST">99897522</idno>
+            <idno type="VID">135812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88001)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2502:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter on the subject of the succession</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135812:1" rendition="simple:additions"/>
+            <p>A LETTER ON THE SUBJECT OF THE SUCCESSION.</p>
+            <q>
+               <l>Do Regum Domino, Regi, Patriaeque, tibíque,</l>
+               <l>Hunc librum; tantùm candidus eſto, cape.</l>
+               <l>Nullum numen abeſt, nam Rex, proceréſque favebunt:</l>
+               <l>I liber, &amp; ſanos inſtrue, vince malos.</l>
+            </q>
+            <figure/>
+            <p>Printed at LONDON, 1679.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:135812:2"/>
+            <head>To the READER.</head>
+            <p>AN Epiſtle to an Epiſtle might well enough be ſpared, eſpecially to one ſo ſhort. I will not ſtand to diſpute, whether it be a fault or not; only if it be, it ſhall be no great one, for I ſhall end it almoſt as ſoon as begun. What follows is not like moſt of the late printed Pamphlets, an imaginary, but a real Letter. It was deſigned only for a private, however now it meets the publick view. The Author neither fears nor values the Cenſure of any in this caſe. There was no accaſion for an Accurate Stile in a Letter to an intimate Friend. For the reſt, the Author has ſpoken, as an honeſt Man, his real Judg<g ref="char:EOLhyphen"/>ment; and in the integrity of his heart, has owned a righteous Cauſe. If any thing he has ſaid, ſhall conduce to rectify thoſe contrary erroneous Opinions, wherewith too many minds are tainted, he ſhall heartily bleſs God for making any thing of his inſtrumental to ſo much Good.</p>
+            <closer>
+               <salute>FAREWELL.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:135812:2"/>
+            <head>
+               <hi>D. H. L. Sept.</hi> 18. 1679.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Intend now to write you ſome of my Sentiments, upon that great Subject of Diſcourſe here, <hi>The Suc<g ref="char:EOLhyphen"/>ceſſion of the Duke of</hi> York, <hi>in caſe of our preſent Sovereign's Death without lawful Iſſue:</hi> But on ſuch a nice <hi>Theſis,</hi> tho I know your Loyalty and your Friendſhip ſo much, yet for fear what I addreſs and deſign to your ſelf only, ſhould by ſome chance fall into other hands, I ſhall repeat to you things that you are very well acquainted with already, that is, That I am an <hi>Engliſhman</hi> by Birth and by Deſcent; by Intereſt, Alliance, and Affection: That I was born and educated in the Metropolis of <hi>England,</hi> and even in the Houſe from whence I write you this: That I am not alienated from the Love of my Country; but on the contrary, that I highly cheriſh in my ſelf, the ſence of that Duty and Fidelity that I owe it: That my Religion is Chriſtianity, which ſome perhaps (for the ſake of this Letter) after the uſual abundance of their want of Cha<g ref="char:EOLhyphen"/>rity, may fairly queſtion; more particularly, that I pro<g ref="char:EOLhyphen"/>feſs my ſelf a Son of my ſacred Mother the Church of <hi>England,</hi> as it is now by Law eſtabliſhed, aſſenting fully to her Doctrine and Diſcipline; and after mature conſi<g ref="char:EOLhyphen"/>deration reſting ſatisfied, that no Church, or pretended Church, upon Earth, does come ſo near to the Truth, to the Simplicity, to the Purity and Holineſs of the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians, as the Church of <hi>England</hi> does in her Conſtitutions and Canons. I thank God I am neither way warped in my Principles; I mean neither popiſhly
+<pb n="2" facs="tcp:135812:3"/>nor ſchiſmatically. I appeal to your knowledge of me, and beſides am ready, if a juſt and neceſſary occaſion requires it, to appear in my own vindication, and free my ſelf from the Aſperſion of <hi>Jeſuit,</hi> or <hi>Papiſt,</hi> that I am ſenſible will certainly fall to my ſhare, if chance guide this Letter among phanatick hands inſtead of yours: For whoever goes about to defend the Dukes juſt Right to the Succeſſion of theſe Crowns, notwithſtanding his de<g ref="char:EOLhyphen"/>fection from the Proteſtant Church, is ſure to be treated by them with the Titles of <hi>Prieſt, Jeſuit, Papiſt, popiſhly affected, Betrayer of the Proteſtant Cauſe,</hi> and the <hi>Liberty of his Country.</hi> But I am not, nor can be affrighted from my Duty and Loyalty, to my God, my King, and my Country, by the loud cauſeleſs Outcries, by the Falſhoods and Calumnies of Men of ſo guilty Principles and Pra<g ref="char:EOLhyphen"/>ctices. I can be ſecure enough from their unjuſt Rage and Fury, by the only ſence of my own Innocence; and can ſee the Storm ſpend it ſelf, under the ſafe ſhelter of a juſt Cauſe. Who would have thought a private Letter to a Friend ſhould have needed a Preface? Yet ſuch is the Iniquity of our Times, and the Judgments of ſo many are infatuated by that Spirit of Schiſm and Faction that prevails ſo much amongſt us, that every loyal Word ſtands in need, not only of an Apologiſt, but of a skilful and vigorous Defender. No Man does, or can doubt but that His Royal Highneſs the Duke of YORK is the true, certain, and indubitable Heir apparent to His Brother King CHARLES the Second, our preſent So<g ref="char:EOLhyphen"/>vereign now reigning, (whom God long preſerve) as having no Iſſue by His Royal Conſort the Queen. No Man doubts of this; the Law of the Land, and conſtant Practice of this Kingdom, has aſcertained the thing, that the Imperial Crown of theſe Nations is <hi>Hereditary,</hi> and the Succeſſion is univerſally acknowledged and determined to be veſted in the <hi>lawful</hi> Heir. <hi>Who is the Heir?</hi> has ſometimes been the Queſtion; but <hi>that the Heir ſhould reign,</hi> has always been unqueſtionable.</p>
+            <pb n="3" facs="tcp:135812:3"/>
+            <p>I need not, <hi>Sir,</hi> cite either Law or Hiſtory to you, to prove the Truth of what I have ſaid: You are too well acquainted with both: Though this indeed is ſo known a Truth, that none I think ſo much as pretend, either to doubt or be ignorant of it. That vain malicious diſtin<g ref="char:EOLhyphen"/>ction of Heir <hi>apparent</hi> and Heir <hi>preſumptive,</hi> endeavoured to be ſet up by ſome, (in hatred to the Duke as it may well be thought) was quickly exploded, with the juſt and general deteſtation of honeſt Men. Well then, there is no ſhadow for Diſpute, either that the Crown is hereditary, or that the Duke is Heir. With what ſtrange impiety is it then, that Men, who would be thought both good Pro<g ref="char:EOLhyphen"/>teſtants and good Patriots, go about to deprive the Illuſtri<g ref="char:EOLhyphen"/>ous Prince of his undoubted Right of Succeſſion to theſe Crowns? I ſeriouſly vow, <hi>Sir,</hi> that I cannot reflect upon this paricidical Attempt, (for ſo me thinks it is) but with infinite trouble and ſorrow. The Name of the <hi>Engliſh,</hi> and the Religion and Morals of <hi>Proteſtants,</hi> will become the Scorn and Odium of the World, if we again endea<g ref="char:EOLhyphen"/>vour to repeat our former accurſed Crime, of depoſing our Prince by pretence of Zeal for our Faith, and with a Face of Law and Juſtice. Our provocations of God muſt ſure have been infinitely great, that we are thus given over to our Deſtruction, that we run thus violently again to the ſame Precipice, where ſo very lately our Religion, Laws, Liberties, and Properties, were fatally daſhed to pieces, never but by Miracle to be reſtored.</p>
+            <p>I cannot conceive how it has happened, that the Duke is thus fallen in the Eſteem of the People: It muſt be ſure by the evil Arts of bad Men, who for private Ends of their own have alienated the Minds of Men from the Duke; and in ſo doing, have at the ſame time infinitely hazarded the publick Peace of theſe Nations.</p>
+            <p>Are not theſe kind of Attempts, to diſturb the Succeſſion in the Right Line and Courſe, a ſort of acting, that ſeems to juſtifie the Actions of the late eternally infamous Regi<g ref="char:EOLhyphen"/>cides.</p>
+            <pb n="4" facs="tcp:135812:4"/>
+            <p>For God's ſake, is the Cry of Law and Juſtice, Liberty, and Property, intended ſo particularly for the People, that the King muſt have no ſhare?</p>
+            <p>Cannot Privileges be kept, without interfering with Prerogative? And whilſt Right and Property is ſecured to all Men, muſt the Heir apparent to the Crown be the only Perſon excluded?</p>
+            <p>I am ſorry to perceive ſo much ingratitude in <hi>Engliſh<g ref="char:EOLhyphen"/>men.</hi> Has not the Duke aſſerted the Rights of his Coun<g ref="char:EOLhyphen"/>try, with the hazard of his Life? Has he not acquired immortal Honour, by Victories obtained over the Ene<g ref="char:EOLhyphen"/>mies of his Country? Has he not often freely, with an undaunted Mind, expoſed himſelf to a thouſand hazards and dangers for the Glory and Service of his Prince and People? The whole World anſwers, <hi>Yes;</hi> and that the Military Atchievements of the Illuſtrious HERO ſhall live in the Breath of Fame eternal Ages. Is he not likewiſe Son to <hi>Charles</hi> the Firſt, the beſt of Men and Kings that ever graced a Throne? A Prince, who having worn a Crown of Gold at his Coronation, a Crown of Thorns in his Afflictions, and a Crown of Martyrdom at his Death, enjoys now in Heaven a Crown of Glory, as the Reward of his conſummated Virtue; and on Earth, his Memory is crowned with Bleſſings and Veneration. Is he not moreover the only ſurviving Brother of King <hi>Charles</hi> the Second? A Prince, whoſe God-like Clemency and Mercy, whoſe Love of all Juſtice, and true Paternal Piety to his People, can be never enough valued or admired. Is there any Royal Blood in <hi>Europe,</hi> whereof that that flows in the Veins of Royal <hi>York</hi> does not parti<g ref="char:EOLhyphen"/>cipate? Are not the Qualities of his Mind anſwerable to the Greatneſs of his Birth? All Men acknowledge the Gallantry of his Actions, and confeſs that there can be no where found a greater Captain, or a braver Soldier. He is indeed Maſter of all thoſe Royal and Heroical Virtues, that are wont to diſtinguiſh Princes from Common Per<g ref="char:EOLhyphen"/>ſons. Valour, Reſolution, Conduct, and Magnanimity,
+<pb n="5" facs="tcp:135812:4"/>are the Habits of his Soul: And all that ever knew him nearly, do unanimouſly agree in this, That he is the beſt Maſter, the beſt Friend, and the moſt juſt to his Word, of any Prince in the World.</p>
+            <p>But alas! it were in vain for me to attempt his Cha<g ref="char:EOLhyphen"/>racter. I leave that Province as the Task of ſome great Hiſtorian; and the greateſt of them, or the beſt Maſters of Eloquence, will find it difficult enough to adapt Ex<g ref="char:EOLhyphen"/>preſſions to the Grandeur of the Subject.</p>
+            <p>The Genius of the Nation has ſure abandon'd it, it would not elſe ſuffer us thus at once to thruſt from us that Happineſs, we might reaſonably expect under the Reign of a Prince ſo fitly qualified for Government.</p>
+            <p>What can we ſay to this, more than with ſorrow and amazement to repeat the old Verſe,
+<q>Tantum religio potuit ſuadere malorum.</q> Religion, the true and only real Happineſs even of this Life, but the ſole and moſt certain Guide to the Joys of Eternity, but the wretched artifice of pernicious Men, is made the Pretence for thoſe worſt of Crimes, <hi>Rebellion</hi> and <hi>Treaſon.</hi>
+            </p>
+            <p>What ſtreams of Evil have flowed from that Fountain! Nay, what Wickedneſs is there, that has not been perpe<g ref="char:EOLhyphen"/>trated under the Mask of Devotion! Let us but look back upon our late inteſtine Wars, and conſider a little the lamentable proſpect it affords us.</p>
+            <p>At the firſt view, we diſcern nothing but poor innocent Devotion, humbly ſupplicating on the behalf of tender Conſciences for a due Reformation of Abuſes crept into the Church, only in order to the Regulation of Life, and the Purity of Religion. But look we yet a little for<g ref="char:EOLhyphen"/>warder, and we diſcover ſuch a Series of horrid Facts, committed under the ſhelter of thoſe Pretences, as Hell it ſelf can hardly parallel; Murders, Rapine, Oppreſſion, Plunderings, Sequeſtrations, Sacrileges, Prophanation of all Things holy, whether Times, Places, Perſons, or
+<pb n="6" facs="tcp:135812:5"/>Things, Contempt of Laws, intermixt with a thouſand other wretched Villanies too dreadful to be repeated. Yet in leſs than twenty years we grow weary of our Quiet, and are mad to be involv'd again in thoſe wretched Di<g ref="char:EOLhyphen"/>ſtractions, from which nothing but the infinite Power and Goodneſs of God has miraculouſly freed us. It is to me matter of the greateſt wonder, that the ſame People, twice in the ſame Age, can be drawn to ruin by the ſame Cheat. Yet ſo it is with us, or would be, if the earneſt and continual endeavours of too many among us might prevail. But the over-ruling Providence of the Almighty will, I hope, diſappoint the Expectation of theſe <hi>Boute<g ref="char:EOLhyphen"/>feu's,</hi> and ſcatter that Wild-fire they intend for the Deſtru<g ref="char:EOLhyphen"/>ction of Church and State, into their own Houſes, to their own confuſion. Methinks the worthy <hi>Engliſh</hi> Nation ſhould at laſt awake from the fatal Lethargy that has hung ſo long upon them, ſhould look on the Maxims they are led by; and not with the ſame implicit Faith that they ſo worthily condemn in Papiſts, be blindly drawn on to the Commiſſion of the greateſt Evils, becauſe ſome leading, popular Men (who direct thoſe miſchiefs for their own advantage) are pleaſed to ſtile themſelves (moſt falſely God knows) the only maintainers of the cauſe of Religion, and the ſole Defenders, and Pillars of ſupport and ſafety to the State. For with how much ſcorn ſoever they would reject any, that ſhould accuſe them of blind and implicit Obedience, they are yet moſt notorious guilty of it, being baſely and cruelly impoſed on in matters of the higheſt moment, by men that only purſue their own private Intereſt or Revenge. Nothing is more apparent than the truth of this; for would they but open their Eyes, and conſider things truly as they are; they muſt needs plainly ſee, that the methods they purſue, can never be the reſult of Councils deſigned for the Intereſt of Religion, or the Peace and Safety of the State. Not for the Intereſt of Religion; for Religion abhors to be Eſta<g ref="char:EOLhyphen"/>bliſhed, but by thoſe ways and means that God himſelf
+<pb n="7" facs="tcp:135812:5"/>has appointed. Do we condemn that practice of too many <hi>Romaniſts,</hi> who allow of any Act of Sin directed to the Good of the Catholick Church, and ſhall we our ſelves fall into the ſame Guilt that we condemn in them? Shall we commit evil, that good may come of it?</p>
+            <p>In plain words, ſhall we break the known Command<g ref="char:EOLhyphen"/>ments of God, that enjoyn Duty, Obedience, and Loyalty, to the King, with pretence of doing it for the Churches ſafety? Were all their pretended Fears for the Proteſtant Religion, grounded upon Truth and Reaſon, yet ſure the Church of the Moſt Holy God is not to be reſcued by the power of Satan, as they would impiouſly do: For <hi>Rebel<g ref="char:EOLhyphen"/>lion is as the Sin of Witchcraft.</hi> Let ſuch fiery Bigots re<g ref="char:EOLhyphen"/>member, and tremble at the Judgment ſhewed upon <hi>Uzzah,</hi> who inconſiderately ſtretching out his ſinful hand, was ſtruck dead for his temerity. They may ſee by that fearful Example, how dangerous it is to follow even good Intentions, where there is no expreſs Command of God; and infinitely more then, when by ſo doing they ſhall act contrary to his expreſs Command. God and Religion are both highly diſhonoured, by the raſh and ſinful proceedings of ſuch indiſcreet Zealots. Cannot the Almighty aſſert his Cauſe, without the unjuſt aid of ſinful Men? Cannot he maintain the Purity of his Church, but by Faction, Treaſon, and Rebellion? Is the Hand of God ſo ſhortned, that the Aid of Hell muſt be called in to his Aſſiſtance? I tremble at ſuch horrid practices. The primitive Chri<g ref="char:EOLhyphen"/>ſtians were ever the loyalleſt Subjects of their Pagan Kings. They oppoſed no other Arms to all the ſeverity of their cruel Perſecutors, but only Prayers and Tears. They ſub<g ref="char:EOLhyphen"/>mitted readily and chearfully to their Prince, and to his Laws, and abhorred to think of eaſing their own Tor<g ref="char:EOLhyphen"/>ments, or aiding the Church, by any endeavour to oppoſe the Prince reigning, or defeat his lawful Heir. It is after this manner, moſt certainly, we ought now to demean our ſelves. Let a ſincere Repentance deprecate the Judg<g ref="char:EOLhyphen"/>ments of God, and let our fervent Prayers continually
+<pb n="8" facs="tcp:135812:6"/>beg of the Almighty Being, to reſtore our Church once more, and ever, to continue it the Support and Ornament of this excellent Prince. This way, if faithfully and ſincerely follow'd, may poſſibly ſucceed. But by open violence, byunjuſt force or ſecret fraud, to ſeek to interrupt the Succeſſion, muſt probably terminate, if not in a gene<g ref="char:EOLhyphen"/>ral Ruin, yet at laſt to the Deſtruction of the wicked Undertakers and Fomenters of it.</p>
+            <p>And as it thus appears, that the Deſigns of ſuch Men can be no advantage to the Proteſtant Religion; ſo it is evident, that the Peace and Safety of the State can never be more hazarded, than by ſuch unjuſt and unlawful Courſes. Can any be ſo dull, to think that the Duke will tamely ſuffer himſelf to be robbed of his juſt Rights? Can they believe, that all the Princes of <hi>Europe</hi> will not powerfully aſſiſt him in the Recovery of them? And then what a Scene of Blood and Slaughter would this poor Iſle become! But beſides the Aſſiſtance, that in ſuch caſe would eaſily by the Duke be obtained from abroad, I do not at all queſtion, but that thouſands of true Proteſtants in theſe Kingdoms would, in a ſence of their Duty and Allegiance, joyfully run the utmoſt hazards, to maintain his Rights; and would believe it (as it is) their indiſpen<g ref="char:EOLhyphen"/>ſible Duty, tho at the Expence of their Lives and Fortunes, to eſtabliſh him in the Throne of his Royal Progenitors. The Lawyers tell us, <hi>That no Act whatſoever can prejudice the lawful Heir in his Succeſſion to the Crown; no Act of his own can do it, nor no Act of others, no not an Attainder:</hi> So that to oppoſe his Claim, is with a hardened Face to reſiſt all Laws, and violate all Sanctions, divine and humane.</p>
+            <p>Thoſe Men therefore, that pretending the Cauſe of Religion, will go on thus to oppoſe the Duke, are the Betrayers of that Religion they pretend to ſupport; and at the ſame time are the Underminers of the Peace and Safety of the State: The Deſertion of the Proteſtants Profeſſion, is ſo far from warranting an Excluſion of the Duke, that Apoſtacy from the Faith of Chriſt could not
+<pb n="9" facs="tcp:135812:6"/>do it. The Principles of Chriſtian Religion, and the Practice of the Chriſtian Church in the Caſe of <hi>Julian</hi> the Apoſtate, do ſufficiently evidence that it could not. I heartily wiſh and pray, That Men would give themſelves the leiſure to reflect a little, and not obſtinately, wickedly, and fooliſhly, involve themſelves in ſuch Labyrinths, as they will very hardly (if at all) be able to extricate them<g ref="char:EOLhyphen"/>ſelves out of, and can have no other probable Iſſue than Ruin, and too late Repentance.</p>
+            <p>I hope, <hi>Sir,</hi> you will pardon this long Letter, long in it ſelf, tho ſhort, its Argument conſidered. I could not well contain my ſelf longer from writing ſomething, tho but briefly, on this Subject, to vindicate (at leaſt between our ſelves) our Religion, and the Rights of the Duke, from the falſe Zeal of their Oppoſers.</p>
+            <p>I could addreſs theſe Thoughts no where better than to you, whoſe Loyalty rejoices in a loyal Theme; and whoſe Friendſhip will pardon and rectifie the Errors of,</p>
+            <closer>
+               <signed>SIR, Your moſt faithful Friend, and humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>THere is newly publiſhed a ſmall Treatiſe, Entituled,</hi> A Letter from a Gentleman of Quality in the Country to his Friend, upon his being choſen a Member to ſerve in the approaching Parliament, and deſiring his Advice, being an Argument relating to the Point of Succeſſion to the Crown; ſhewing from Scripture, Law, Hiſtory, and Reaſon, how improbable (if not impoſſible) it is to bar the next Heir in the Right Line from the Succeſſion. <hi>This Point is ſo fully proved by the ingenious Author (a good Proteſtant and eminent Lawyer) that by the moſt Learned it is thought unanſwerable.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
